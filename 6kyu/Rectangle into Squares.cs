@@ -4,6 +4,7 @@ using System.Text;
 
 namespace CS_Algorithm._6kyu
 {
+    // https://www.codewars.com/kata/rectangle-into-squares/csharp
     class Rectangle_into_Squares
     {
 
